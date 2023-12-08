@@ -57,18 +57,6 @@
 
 <br/>
 
-## Connect with Me  
-<div align="center">
-  <a href="https://twitter.com/litonnath" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/rishavanand" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <!-- Add other social media links here -->
-</div>
-
-<br/>
 
 ## GitHub Stats  
 <div align="center">
@@ -77,24 +65,10 @@
 
 <br/>
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things go well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
-
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LordShiva88&&style=flat-square" align="center" />
-</div>
 
-<br/>
 
-<br/>
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
