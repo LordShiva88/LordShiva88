@@ -11,22 +11,21 @@
 <br/>
 
 ## Github Stats  
-<div style="display: flex;">
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=LordShiva88&border_radius=4.1" />
-  </div>
+
+  <div align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=LordShiva88&theme=prussian" alt="GitHub Streak" />
+</div>
   <br/>
-  <div>
+  <div align="center" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordShiva88&hide_border=true&layout=compact" align="center" />
   </div>
-</div>
+
 <br/>  
 
 <br/>
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td align="top" width="33%">
 
 
 
